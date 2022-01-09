@@ -1,5 +1,5 @@
 <b>Hi there 👋</b>
-- 👀 I’m interested in learning new stuff, reactive programming, blockchain 
+- 👀 I’m interested in learning new stuff, crypto
 - 🌱 I’m currently learning Kotlin, Reactive Programming with Spring Webflux, building frontends with Vaadin, React
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: I'm on <a href="https://www.linkedin.com/in/felix-sinne-developer">linkedin</a>
